@@ -1,14 +1,29 @@
 # CAR Data-Engineering-Projects
-![Untitled design](https://github.com/user-attachments/assets/056fbb1d-051c-4273-b574-7bd97e603435)
+Architecture:
+![image](https://github.com/user-attachments/assets/8a38c93f-8a33-4b09-a39c-7bd9a8986551)
 
-![image](https://github.com/user-attachments/assets/3f810560-18e1-45d4-9751-1adab15b3d6e)
+Delta Lake with containers:
+![image](https://github.com/user-attachments/assets/6632e761-cf73-4d8c-b0b3-1c670068e067)
 
-![image](https://github.com/user-attachments/assets/a7fa310c-ef56-4e51-aebf-99bcfb67467d)
-![image](https://github.com/user-attachments/assets/0f8bd5d3-3f50-4688-b801-09651a7c82fd)
-![image](https://github.com/user-attachments/assets/18aacbbb-9e14-4f8c-8492-1f4c5030d1d2)
+Azure Data Factory pipeline job to store data to Azure SQL table:
+![image](https://github.com/user-attachments/assets/92e3a8bc-32a9-43f0-ab28-ff76f047d851)
 
+Azure Data Factory pipeline job to move data from Azure SQL table into Bronze container:
+![image](https://github.com/user-attachments/assets/c4888400-4cec-49c2-a3bc-a20b3a015729)
 
-![image](https://github.com/user-attachments/assets/aaff947d-16da-42e7-92ce-7fbb3f22480f)
-![image](https://github.com/user-attachments/assets/259dc0c4-1dbe-4523-878e-ebdffd658a80)
-![image](https://github.com/user-attachments/assets/6b9c8451-f083-400c-a10f-e6ef25596387)
-![image](https://github.com/user-attachments/assets/8c17b232-8c52-4d32-9524-a44aa1810092)
+Create table:
+![image](https://github.com/user-attachments/assets/2a2d8095-97e1-40db-9c68-dd57c500b5a9)
+![image](https://github.com/user-attachments/assets/299de83d-0a2c-464a-a862-acb7952fd36e)
+
+create procedure:
+![image](https://github.com/user-attachments/assets/4819fcdb-4f97-41d6-b6d7-34cc3f26f561)
+![image](https://github.com/user-attachments/assets/3b03c6d2-aaa7-40c3-8aa6-a146b1127f1c)
+
+Notebook:
+![image](https://github.com/user-attachments/assets/d3fdfcba-42f0-425b-afa9-a3c85b41996e)
+
+Star Schema Structure:
+![image](https://github.com/user-attachments/assets/1a8a5b9e-2067-484f-90ed-3e950be5436e)
+
+Workflow pipeline:
+![image](https://github.com/user-attachments/assets/d0a84f0d-a92a-4bba-81fc-f6f79ad62966)
