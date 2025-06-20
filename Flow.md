@@ -17,6 +17,8 @@
 
 ## create procedure:
 ![image](https://github.com/user-attachments/assets/4819fcdb-4f97-41d6-b6d7-34cc3f26f561)
+
+## created table and procedure:
 ![image](https://github.com/user-attachments/assets/3b03c6d2-aaa7-40c3-8aa6-a146b1127f1c)
 
 ## Notebook:
