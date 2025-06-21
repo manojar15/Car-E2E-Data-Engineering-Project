@@ -2,6 +2,9 @@
 ## Architecture:
 ![image](https://github.com/user-attachments/assets/8a38c93f-8a33-4b09-a39c-7bd9a8986551)
 
+## Resources used
+![image](https://github.com/user-attachments/assets/161f06cc-08ac-4bc9-a150-69efd13071f5)
+
 ## Delta Lake with containers:
 ![image](https://github.com/user-attachments/assets/6632e761-cf73-4d8c-b0b3-1c670068e067)
 
